@@ -1,4 +1,4 @@
-!pip install streamlit feedparser pandas scikit-learn wordcloud matplotlib
+pip install streamlit feedparser pandas scikit-learn wordcloud matplotlib
 import streamlit as st
 import feedparser
 import pandas as pd
